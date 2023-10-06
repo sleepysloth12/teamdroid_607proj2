@@ -9,7 +9,7 @@
 
 ## Project Description
 
-For Project 2, our goal was to tidy up 3 wide/untidy datasets. We chose the following datasets for our analysis:
+For Project 2, our goal was to tidy up 3 wide/untidy datasets. The following 3 are links to each of the analysis conducted.
 
 ### Datasets and Repositories
 
