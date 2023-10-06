@@ -21,8 +21,9 @@ For Project 2, our goal was to tidy up 3 wide/untidy datasets. The following 3 a
 
 3. **World Population Dataset Analysis**  
    - [Repository Link](https://github.com/autistic96/project-2)
+   - [RPubs Link](https://rpubs.com/kelly_eng03/1094370)
 
 ## Collaboration
 
-We used forks on GitHub to collaborate on this project.
+We used branches on GitHub to collaborate on this project.
 
