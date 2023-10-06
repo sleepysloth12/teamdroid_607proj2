@@ -15,6 +15,7 @@ For Project 2, our goal was to tidy up 3 wide/untidy datasets. The following 3 a
 
 1. **Diabetes Dataset Analysis**  
    - [Repository Link](https://github.com/Mattr5541/DATA-607-Project-2/tree/main)
+   - [RPubs Link](https://rpubs.com/Matt_sps/1094403)
 
 2. **NYS Prison Employee Misconduct Analysis**  
    - [Repository Link](https://github.com/sleepysloth12/607proj2_NYS_Prison_Misconduct)
