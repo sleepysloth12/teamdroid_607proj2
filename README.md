@@ -3,9 +3,9 @@
 ## Team Android
 
 **Members:**
-- Kelly Eng
-- Jean Jimenez
-- Matthew Roland
+- [Kelly Eng](https://github.com/autistic96)
+- [Jean Jimenez](https://github.com/sleepysloth12)
+- [Matthew Roland](https://github.com/Mattr5541)
 
 ## Project Description
 
@@ -19,6 +19,7 @@ For Project 2, our goal was to tidy up 3 wide/untidy datasets. The following 3 a
 
 2. **NYS Prison Employee Misconduct Analysis**  
    - [Repository Link](https://github.com/sleepysloth12/607proj2_NYS_Prison_Misconduct)
+   - [RPubs Link](http://rpubs.com/sleepysloth12/1094835)
 
 3. **World Population Dataset Analysis**  
    - [Repository Link](https://github.com/autistic96/project-2)
